@@ -1,0 +1,4277 @@
+[
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    },
+    {
+        "Name": "Hobbs Police - Hobbs, New Mexico",
+        "Address": "300 N Turner St",
+        "City": "Hobbs",
+        "State": "New Mexico",
+        "Zip Code": "88240",
+        "County": "New Mexico",
+        "Phone": "5753979284"
+    },
+    {
+        "Name": "Missouri State Park Rangers - Jefferson City, Missouri",
+        "Address": "1659 E. Elm Street",
+        "City": "Jefferson City",
+        "State": "Missouri",
+        "Zip Code": "65101",
+        "County": "Cole",
+        "Phone": "573-751-9188"
+    },
+    {
+        "Name": "Westerville Police Department - Westerville, Ohio",
+        "Address": "29 S. State St",
+        "City": "Westerville",
+        "State": "Ohio",
+        "Zip Code": "43081",
+        "County": "OH",
+        "Phone": "6149016450"
+    },
+    {
+        "Name": "Trumbull County Sheriffs Department, OH - Warren, Ohio",
+        "Address": "605 Panther Ave.",
+        "City": "Warren",
+        "State": "Ohio",
+        "Zip Code": "44483",
+        "County": "Trumbull",
+        "Phone": "3306752508"
+    },
+    {
+        "Name": "Piedmont Company Police Department, NC - Greensboro, North Carolina",
+        "Address": "4004-K Spring Garden St",
+        "City": "Greensboro",
+        "State": "North Carolina",
+        "Zip Code": "27407",
+        "County": "Randolph",
+        "Phone": "336-223-4940"
+    },
+    {
+        "Name": "Fairfield Police Department - Fairfield, Connecticut",
+        "Address": "100 Reef Rd",
+        "City": "Fairfield",
+        "State": "Connecticut",
+        "Zip Code": "06824",
+        "County": "Fairfield",
+        "Phone": "203-254-4808"
+    },
+    {
+        "Name": "McKenzie County Sheriffs Office - Watford City , North Dakota",
+        "Address": "1201 12th st se Ste B",
+        "City": "Watford City ",
+        "State": "North Dakota",
+        "Zip Code": "58854",
+        "County": "McKenzie",
+        "Phone": "701-444-3654"
+    },
+    {
+        "Name": "Kipton Police Department - Kipton, Ohio",
+        "Address": "299 State Street",
+        "City": "PO Box 52",
+        "State": "Kipton",
+        "Zip Code": "Ohio",
+        "County": "44049",
+        "Phone": "Lorain"
+    },
+    {
+        "Name": "NYS Office of Mental Health Police - Creedmoor Psychiatric Center - Queens Village, New York",
+        "Address": "79-25 Winchester Boulevard",
+        "City": "Bldg. 40",
+        "State": "Queens Village",
+        "Zip Code": "New York",
+        "County": "11427-2199",
+        "Phone": "Queens"
+    },
+    {
+        "Name": "Kearney County Sheriff's Office - NIRMA - Minden, Nebraska",
+        "Address": "246 N Colorado Ave",
+        "City": "Minden",
+        "State": "Nebraska",
+        "Zip Code": "68959",
+        "County": "Kearney",
+        "Phone": "308-832-2805"
+    },
+    {
+        "Name": "Lowndes County Sheriff's Department - Columbus, Mississippi",
+        "Address": "527 MLK Jr. Drive South",
+        "City": "Columbus",
+        "State": "Mississippi",
+        "Zip Code": "39701",
+        "County": "Lowndes",
+        "Phone": "1-662-328-6788"
+    },
+    {
+        "Name": "Manitowoc County Sheriff's Office (WI) - Manitowoc, Wisconsin",
+        "Address": "1025 S 9th St",
+        "City": "Manitowoc",
+        "State": "Wisconsin",
+        "Zip Code": "54220",
+        "County": "Manitowoc",
+        "Phone": "9206834200"
+    },
+    {
+        "Name": "Waukegan Police Department - Waukegan, Illinois",
+        "Address": "101 N. West St.",
+        "City": "Waukegan",
+        "State": "Illinois",
+        "Zip Code": "60085",
+        "County": "USA",
+        "Phone": "847-599-2608"
+    },
+    {
+        "Name": "Colorado Rangers (CLER) - Fort Lupton, Colorado",
+        "Address": "330 Park Avenue",
+        "City": "Fort Lupton",
+        "State": "Colorado",
+        "Zip Code": "80621",
+        "County": "Adams",
+        "Phone": "303-502-2671"
+    },
+    {
+        "Name": "Ocean County Sheriff's Office - Toms River, New Jersey",
+        "Address": "120 Hooper Ave",
+        "City": "Toms River",
+        "State": "New Jersey",
+        "Zip Code": "08753",
+        "County": "Ocean",
+        "Phone": "(732)929-2044"
+    },
+    {
+        "Name": "Wood County Sheriff's Office - Bowling Green, Ohio",
+        "Address": "1960 East Gypsy Lane Road",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43402",
+        "County": "Wood",
+        "Phone": "419-354-9001"
+    },
+    {
+        "Name": "Bowling Green State University Police Department - Bowling Green, Ohio",
+        "Address": "100 College Park Office Building",
+        "City": "Bowling Green",
+        "State": "Ohio",
+        "Zip Code": "43403",
+        "County": "Wood",
+        "Phone": "419-372-2346"
+    },
+    {
+        "Name": "Newark Chief of Police - Newark, New Jersey",
+        "Address": "31 Green Street, #4",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07102",
+        "County": "Hudson",
+        "Phone": "9737336520"
+    },
+    {
+        "Name": "Newark Police Department - Newark, New Jersey",
+        "Address": "1009 Bergen St",
+        "City": "Newark",
+        "State": "New Jersey",
+        "Zip Code": "07112",
+        "County": "Hudson",
+        "Phone": "973-733-3941"
+    },
+    {
+        "Name": "Alton Police Department - Alton, Texas",
+        "Address": "509 S. Alton Blvd",
+        "City": "Alton",
+        "State": "Texas",
+        "Zip Code": "78573",
+        "County": "Hidalgo",
+        "Phone": "(956) 432-0700"
+    },
+    {
+        "Name": "Yellowstone County Detention Center - Billings, Montana",
+        "Address": "3165 King Ave E",
+        "City": "Billings",
+        "State": "Montana",
+        "Zip Code": "59102",
+        "County": "Yellowstone",
+        "Phone": "4062566881"
+    },
+    {
+        "Name": "Rutland Police Department - Rutland, Massachusetts",
+        "Address": "PO Box 242",
+        "City": "Rutland",
+        "State": "Massachusetts",
+        "Zip Code": "01543",
+        "County": "Worcester",
+        "Phone": "508-886-4106"
+    },
+    {
+        "Name": "Kansas Police Department - Kansas, Illinois",
+        "Address": "104 South Front Street",
+        "City": "POB 438",
+        "State": "Kansas",
+        "Zip Code": "Illinois",
+        "County": "61933",
+        "Phone": "Edgar"
+    },
+    {
+        "Name": "Office of the State Constable - Middletown, Pennsylvania",
+        "Address": "54 W Roosevelt Ave",
+        "City": "Middletown",
+        "State": "Pennsylvania",
+        "Zip Code": "17057",
+        "County": "Dauphin",
+        "Phone": "7177362099"
+    },
+    {
+        "Name": "Mercer County Crisis Intervention Team - Mercer, Pennsylvania",
+        "Address": "105 Courthouse",
+        "City": "Mercer",
+        "State": "Pennsylvania",
+        "Zip Code": "16137",
+        "County": "Mercer",
+        "Phone": "7244567785"
+    }
+]

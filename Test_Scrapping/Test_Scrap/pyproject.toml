@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "test-scrap"
+version = "0.1.0"
+description = ""
+authors = ["Pavlik-Ravlik <pastet1990@icloud.com>"]
+readme = "README.md"
+packages = [{include = "test_scrap"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.2"
+lxml = "^4.9.3"
+aiohttp = "^3.8.5"
+asyncio = "^3.4.3"
+selenium = "^4.11.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

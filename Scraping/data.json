@@ -1,5 +1,50 @@
 [
     {
+        "title": "Барби",
+        "link": "https://rezka.ag//films/fantasy/56478-barbi-2023.html",
+        "genre": [
+            "2023",
+            " Великобритания",
+            " Фэнтези"
+        ]
+    },
+    {
+        "title": "Отвязные дворняги",
+        "link": "https://rezka.ag//films/comedy/61530-otvyaznye-dvornyagi-2023.html",
+        "genre": [
+            "2023",
+            " США",
+            " Комедии"
+        ]
+    },
+    {
+        "title": "Ходячие мертвецы: Дэрил Диксон",
+        "link": "https://rezka.ag//series/thriller/58921-hodyachie-mertvecy-deril-dikson-2023.html",
+        "genre": [
+            "2023 - ...",
+            " США",
+            " Триллеры"
+        ]
+    },
+    {
+        "title": "Подменыш",
+        "link": "https://rezka.ag//series/thriller/61024-podmenysh-2023.html",
+        "genre": [
+            "2023 - ...",
+            " США",
+            " Триллеры"
+        ]
+    },
+    {
+        "title": "В ожидании Дали",
+        "link": "https://rezka.ag//films/comedy/61368-v-ozhidanii-dali-2023.html",
+        "genre": [
+            "2023",
+            " Испания",
+            " Комедии"
+        ]
+    },
+    {
         "title": "Черепашки-ниндзя: Погром мутантов",
         "link": "https://rezka.ag//cartoons/fiction/58920-cherepashki-nindzya-pogrom-mutantov-2023.html",
         "genre": [
@@ -240,51 +285,6 @@
             "2023",
             " США",
             " Фантастика"
-        ]
-    },
-    {
-        "title": "Судзумэ, закрывающая двери",
-        "link": "https://rezka.ag//animation/fantasy/53124-sudzume-zakryvayuschaya-dveri-2022.html",
-        "genre": [
-            "2022",
-            " Япония",
-            " Фэнтези"
-        ]
-    },
-    {
-        "title": "Нимона",
-        "link": "https://rezka.ag//cartoons/fiction/58944-nimona-netflix-2023.html",
-        "genre": [
-            "2023",
-            " США",
-            " Фантастика"
-        ]
-    },
-    {
-        "title": "Захваченный рейс",
-        "link": "https://rezka.ag//series/drama/57884-hijack-kingdom-zahvachennyy-reys-2023.html",
-        "genre": [
-            "2023 - ...",
-            " США",
-            " Драмы"
-        ]
-    },
-    {
-        "title": "Секретное вторжение",
-        "link": "https://rezka.ag//series/fiction/56335-sekretnoe-vtorzhenie-disney-2023.html",
-        "genre": [
-            "2023",
-            " США",
-            " Фантастика"
-        ]
-    },
-    {
-        "title": "Уикенд с батей",
-        "link": "https://rezka.ag//films/comedy/55455-uikend-s-batey-2023.html",
-        "genre": [
-            "2023",
-            " США",
-            " Комедии"
         ]
     }
 ]
